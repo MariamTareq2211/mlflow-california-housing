@@ -6,7 +6,6 @@
 
 Tracking and comparing three XGBoost regression experiments on the California Housing dataset with MLflow. Each run logs its parameters, validation metrics (RMSE, MAE, R²) and the trained model, and the best configuration is selected by **RMSE**.
 
-> Part of the Samsung Innovation Campus MLOps track. Workflow: **Train → Track → Compare → Select**.
 
 ## Description
 
